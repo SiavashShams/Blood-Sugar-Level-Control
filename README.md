@@ -1,2 +1,2 @@
 # Blood-Sugar-Level-Control-
-Designing controllers to regulate blood sugar levels
+Digital Control Systems course project
